@@ -1,0 +1,6 @@
+{
+    "nom":"Aymen",
+    "email":"Aymen.ElI@gmail.com",
+    "mot_passe":"aymen12345678"
+}
+token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkF5bWVuLkVsSUBnbWFpbC5jb20iLCJub20iOiJBeW1lbiIsImlhdCI6MTczNzE5OTEwMCwiZXhwIjoxNzM3MjAyNzAwfQ.HJiAjOJMrylm0b7H7pU05I2nc1swM1TIjjKDlM3tQuA
